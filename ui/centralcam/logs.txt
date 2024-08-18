@@ -1,0 +1,1321 @@
+[2024-07-18 16:52:49] [INFO] Recibio +OK
+[2024-07-18 16:52:49] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-18 16:52:49] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-18 16:52:49] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-18 16:52:49] [INFO] Recibio +OK
+[2024-07-18 16:52:53] [INFO] Recibio PING
+[2024-07-18 16:52:53] [INFO] Envio PONG
+[2024-07-18 16:53:43] [INFO] Recibio PING
+[2024-07-18 16:53:43] [INFO] Envio PONG
+[2024-07-18 16:54:33] [INFO] Recibio PING
+[2024-07-18 16:54:33] [INFO] Envio PONG
+[2024-07-18 16:54:37] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-18 16:54:37] [INFO] Recibio +OK
+[2024-07-18 16:55:23] [INFO] Recibio PING
+[2024-07-18 16:55:23] [INFO] Envio PONG
+[2024-07-18 17:01:17] [INFO] Recibio +OK
+[2024-07-18 17:01:17] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-18 17:01:17] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-18 17:01:17] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-18 17:01:17] [INFO] Recibio +OK
+[2024-07-18 17:01:20] [INFO] Recibio PING
+[2024-07-18 17:01:20] [INFO] Envio PONG
+[2024-07-18 17:01:43] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-18 17:01:43] [INFO] Recibio +OK
+[2024-07-18 17:02:10] [INFO] Recibio PING
+[2024-07-18 17:02:10] [INFO] Envio PONG
+[2024-07-18 17:16:49] [INFO] Recibio +OK
+[2024-07-18 17:16:49] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-18 17:16:49] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-18 17:16:49] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-18 17:16:49] [INFO] Recibio +OK
+[2024-07-18 17:16:52] [INFO] Recibio PING
+[2024-07-18 17:16:52] [INFO] Envio PONG
+[2024-07-18 17:17:02] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-18 17:17:02] [INFO] Recibio +OK
+[2024-07-18 17:19:56] [INFO] Recibio +OK
+[2024-07-18 17:19:56] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-18 17:19:56] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-18 17:19:56] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-18 17:19:56] [INFO] Recibio +OK
+[2024-07-18 17:20:00] [INFO] Recibio PING
+[2024-07-18 17:20:00] [INFO] Envio PONG
+[2024-07-18 17:20:09] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-18 17:20:09] [INFO] Recibio +OK
+[2024-07-18 17:21:59] [INFO] Recibio +OK
+[2024-07-18 17:21:59] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-18 17:21:59] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-18 17:21:59] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-18 17:21:59] [INFO] Recibio +OK
+[2024-07-18 17:22:01] [INFO] Recibio PING
+[2024-07-18 17:22:01] [INFO] Envio PONG
+[2024-07-18 17:22:11] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-18 17:22:11] [INFO] Recibio +OK
+[2024-07-18 17:22:51] [INFO] Recibio PING
+[2024-07-18 17:22:51] [INFO] Envio PONG
+[2024-07-19 11:45:45] [INFO] Recibio +OK
+[2024-07-19 11:45:45] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 11:45:45] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 11:45:45] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 11:45:45] [INFO] Recibio +OK
+[2024-07-19 11:45:49] [INFO] Recibio PING
+[2024-07-19 11:45:49] [INFO] Envio PONG
+[2024-07-19 11:46:01] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 11:46:01] [INFO] Recibio +OK
+[2024-07-19 11:46:39] [INFO] Recibio PING
+[2024-07-19 11:46:39] [INFO] Envio PONG
+[2024-07-19 11:47:29] [INFO] Recibio PING
+[2024-07-19 11:47:29] [INFO] Envio PONG
+[2024-07-19 11:48:03] [INFO] Recibio +OK
+[2024-07-19 11:48:03] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 11:48:03] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 11:48:03] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 11:48:03] [INFO] Recibio +OK
+[2024-07-19 11:48:38] [INFO] Recibio +OK
+[2024-07-19 11:48:38] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 11:48:38] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 11:48:38] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 11:48:38] [INFO] Recibio +OK
+[2024-07-19 11:48:42] [INFO] Recibio PING
+[2024-07-19 11:48:42] [INFO] Envio PONG
+[2024-07-19 11:49:07] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 11:49:07] [INFO] Recibio +OK
+[2024-07-19 11:49:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -34 -58 pendiente
+[2024-07-19 11:49:26] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-19 11:49:26] [INFO] Recibio +OK
+[2024-07-19 11:49:32] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 1.0 -34 -58 cancelado
+[2024-07-19 11:49:32] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 11:49:32] [INFO] Recibio +OK
+[2024-07-19 11:49:32] [INFO] Recibio PING
+[2024-07-19 11:49:32] [INFO] Envio PONG
+[2024-07-19 11:50:22] [INFO] Recibio PING
+[2024-07-19 11:50:22] [INFO] Envio PONG
+[2024-07-19 11:51:12] [INFO] Recibio PING
+[2024-07-19 11:51:12] [INFO] Envio PONG
+[2024-07-19 11:52:02] [INFO] Recibio PING
+[2024-07-19 11:52:02] [INFO] Envio PONG
+[2024-07-19 11:52:52] [INFO] Recibio PING
+[2024-07-19 11:52:52] [INFO] Envio PONG
+[2024-07-19 11:53:30] [INFO] Recibio +OK
+[2024-07-19 11:53:30] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 11:53:30] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 11:53:30] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 11:53:30] [INFO] Recibio +OK
+[2024-07-19 11:53:34] [INFO] Recibio PING
+[2024-07-19 11:53:34] [INFO] Envio PONG
+[2024-07-19 11:53:44] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 11:53:44] [INFO] Recibio +OK
+[2024-07-19 11:54:24] [INFO] Recibio PING
+[2024-07-19 11:54:24] [INFO] Envio PONG
+[2024-07-19 12:02:22] [INFO] Recibio +OK
+[2024-07-19 12:02:22] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 12:02:22] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 12:02:22] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 12:02:22] [INFO] Recibio +OK
+[2024-07-19 12:02:26] [INFO] Recibio PING
+[2024-07-19 12:02:26] [INFO] Envio PONG
+[2024-07-19 12:02:41] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 12:02:41] [INFO] Recibio +OK
+[2024-07-19 12:03:16] [INFO] Recibio PING
+[2024-07-19 12:03:16] [INFO] Envio PONG
+[2024-07-19 12:09:10] [INFO] Recibio +OK
+[2024-07-19 12:09:10] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 12:09:10] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 12:09:10] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 12:09:10] [INFO] Recibio +OK
+[2024-07-19 12:09:14] [INFO] Recibio PING
+[2024-07-19 12:09:14] [INFO] Envio PONG
+[2024-07-19 12:09:15] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 12:09:15] [INFO] Recibio +OK
+[2024-07-19 12:16:56] [INFO] Recibio +OK
+[2024-07-19 12:16:56] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 12:16:56] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 12:16:56] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 12:16:56] [INFO] Recibio +OK
+[2024-07-19 12:17:00] [INFO] Recibio PING
+[2024-07-19 12:17:00] [INFO] Envio PONG
+[2024-07-19 12:17:13] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 12:17:13] [INFO] Recibio +OK
+[2024-07-19 12:17:50] [INFO] Recibio PING
+[2024-07-19 12:17:50] [INFO] Envio PONG
+[2024-07-19 12:20:21] [INFO] Recibio +OK
+[2024-07-19 12:20:21] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 12:20:21] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 12:20:21] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 12:20:21] [INFO] Recibio +OK
+[2024-07-19 12:20:24] [INFO] Recibio PING
+[2024-07-19 12:20:24] [INFO] Envio PONG
+[2024-07-19 12:20:26] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-19 12:20:26] [INFO] Recibio +OK
+[2024-07-19 14:44:56] [INFO] Recibio +OK
+[2024-07-19 14:44:56] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 14:44:56] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 14:44:56] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 14:44:56] [INFO] Recibio +OK
+[2024-07-19 14:44:59] [INFO] Recibio PING
+[2024-07-19 14:44:59] [INFO] Envio PONG
+[2024-07-19 14:45:24] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-19 14:45:24] [INFO] Recibio +OK
+[2024-07-19 14:45:49] [INFO] Recibio PING
+[2024-07-19 14:45:49] [INFO] Envio PONG
+[2024-07-19 14:46:39] [INFO] Recibio PING
+[2024-07-19 14:46:39] [INFO] Envio PONG
+[2024-07-19 14:47:29] [INFO] Recibio PING
+[2024-07-19 14:47:29] [INFO] Envio PONG
+[2024-07-19 14:48:19] [INFO] Recibio PING
+[2024-07-19 14:48:19] [INFO] Envio PONG
+[2024-07-19 14:52:50] [INFO] Recibio +OK
+[2024-07-19 14:52:50] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 14:52:50] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 14:52:50] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 14:52:50] [INFO] Recibio +OK
+[2024-07-19 14:52:53] [INFO] Recibio PING
+[2024-07-19 14:52:53] [INFO] Envio PONG
+[2024-07-19 14:53:20] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-19 14:53:20] [INFO] Recibio +OK
+[2024-07-19 14:53:43] [INFO] Recibio PING
+[2024-07-19 14:53:43] [INFO] Envio PONG
+[2024-07-19 15:01:14] [INFO] Recibio +OK
+[2024-07-19 15:01:14] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 15:01:14] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 15:01:14] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 15:01:14] [INFO] Recibio +OK
+[2024-07-19 15:01:17] [INFO] Recibio PING
+[2024-07-19 15:01:17] [INFO] Envio PONG
+[2024-07-19 15:01:36] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-19 15:01:36] [INFO] Recibio +OK
+[2024-07-19 15:02:07] [INFO] Recibio PING
+[2024-07-19 15:02:07] [INFO] Envio PONG
+[2024-07-19 15:03:32] [INFO] Recibio +OK
+[2024-07-19 15:03:32] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 15:03:32] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 15:03:32] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 15:03:32] [INFO] Recibio +OK
+[2024-07-19 15:03:35] [INFO] Recibio PING
+[2024-07-19 15:03:35] [INFO] Envio PONG
+[2024-07-19 15:03:55] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-19 15:03:55] [INFO] Recibio +OK
+[2024-07-19 15:04:25] [INFO] Recibio PING
+[2024-07-19 15:04:25] [INFO] Envio PONG
+[2024-07-19 15:35:26] [INFO] Recibio +OK
+[2024-07-19 15:35:26] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-19 15:35:26] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-19 15:35:26] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-19 15:35:26] [INFO] Recibio +OK
+[2024-07-19 15:35:29] [INFO] Recibio PING
+[2024-07-19 15:35:29] [INFO] Envio PONG
+[2024-07-19 15:35:45] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-19 15:35:45] [INFO] Recibio +OK
+[2024-07-19 15:36:08] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-19 15:36:09] [INFO] Recibio +OK
+[2024-07-19 15:36:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -34.609 -58.369 pendiente
+[2024-07-19 15:36:10] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-19 15:36:10] [INFO] Recibio +OK
+[2024-07-19 15:36:19] [INFO] Recibio PING
+[2024-07-19 15:36:19] [INFO] Envio PONG
+[2024-07-22 16:46:48] [INFO] Recibio +OK
+[2024-07-22 16:46:48] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 16:46:48] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 16:46:48] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 16:46:48] [INFO] Recibio +OK
+[2024-07-22 16:46:52] [INFO] Recibio PING
+[2024-07-22 16:46:52] [INFO] Envio PONG
+[2024-07-22 16:47:42] [INFO] Recibio PING
+[2024-07-22 16:47:42] [INFO] Envio PONG
+[2024-07-22 16:47:44] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 16:47:44] [INFO] Recibio +OK
+[2024-07-22 16:48:32] [INFO] Recibio PING
+[2024-07-22 16:48:32] [INFO] Envio PONG
+[2024-07-22 16:50:02] [INFO] Recibio +OK
+[2024-07-22 16:50:02] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 16:50:02] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 16:50:02] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 16:50:02] [INFO] Recibio +OK
+[2024-07-22 16:50:06] [INFO] Recibio PING
+[2024-07-22 16:50:06] [INFO] Envio PONG
+[2024-07-22 16:50:26] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 16:50:26] [INFO] Recibio +OK
+[2024-07-22 16:50:56] [INFO] Recibio PING
+[2024-07-22 16:50:56] [INFO] Envio PONG
+[2024-07-22 16:56:00] [INFO] Recibio +OK
+[2024-07-22 16:56:00] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 16:56:00] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 16:56:00] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 16:56:00] [INFO] Recibio +OK
+[2024-07-22 16:56:04] [INFO] Recibio PING
+[2024-07-22 16:56:04] [INFO] Envio PONG
+[2024-07-22 16:56:16] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 16:56:16] [INFO] Recibio +OK
+[2024-07-22 16:56:34] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 16:56:34] [INFO] Recibio +OK
+[2024-07-22 16:56:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 16:56:35] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 16:56:35] [INFO] Recibio +OK
+[2024-07-22 16:56:54] [INFO] Recibio PING
+[2024-07-22 16:56:54] [INFO] Envio PONG
+[2024-07-22 16:57:44] [INFO] Recibio PING
+[2024-07-22 16:57:44] [INFO] Envio PONG
+[2024-07-22 16:58:34] [INFO] Recibio PING
+[2024-07-22 16:58:34] [INFO] Envio PONG
+[2024-07-22 16:59:24] [INFO] Recibio PING
+[2024-07-22 16:59:24] [INFO] Envio PONG
+[2024-07-22 16:59:46] [INFO] Enviando: |"PUB Camara 32\r\n-58 -34 ahorro 2\r\n"|
+[2024-07-22 16:59:46] [INFO] Recibio +OK
+[2024-07-22 17:00:14] [INFO] Recibio PING
+[2024-07-22 17:00:14] [INFO] Envio PONG
+[2024-07-22 17:01:04] [INFO] Recibio PING
+[2024-07-22 17:01:04] [INFO] Envio PONG
+[2024-07-22 17:01:54] [INFO] Recibio PING
+[2024-07-22 17:01:54] [INFO] Envio PONG
+[2024-07-22 17:02:43] [INFO] Recibio +OK
+[2024-07-22 17:02:43] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:02:43] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:02:43] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:02:43] [INFO] Recibio +OK
+[2024-07-22 17:02:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 17:02:46] [INFO] Recibio PING
+[2024-07-22 17:02:46] [INFO] Envio PONG
+[2024-07-22 17:02:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 1.0 -33.999 -57.999 pendiente
+[2024-07-22 17:03:03] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 17:03:03] [INFO] Recibio +OK
+[2024-07-22 17:03:17] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 17:03:17] [INFO] Recibio +OK
+[2024-07-22 17:03:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 2.1 -33.999 -57.999 pendiente
+[2024-07-22 17:03:18] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 17:03:18] [INFO] Recibio +OK
+[2024-07-22 17:04:09] [INFO] Recibio +OK
+[2024-07-22 17:04:09] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:04:09] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:04:09] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:04:09] [INFO] Recibio +OK
+[2024-07-22 17:04:13] [INFO] Recibio PING
+[2024-07-22 17:04:13] [INFO] Envio PONG
+[2024-07-22 17:04:23] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 17:04:23] [INFO] Recibio +OK
+[2024-07-22 17:04:39] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 17:04:39] [INFO] Recibio +OK
+[2024-07-22 17:04:39] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 17:04:40] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 17:04:40] [INFO] Recibio +OK
+[2024-07-22 17:05:03] [INFO] Recibio PING
+[2024-07-22 17:05:03] [INFO] Envio PONG
+[2024-07-22 17:05:53] [INFO] Recibio PING
+[2024-07-22 17:05:53] [INFO] Envio PONG
+[2024-07-22 17:06:43] [INFO] Recibio PING
+[2024-07-22 17:06:43] [INFO] Envio PONG
+[2024-07-22 17:07:33] [INFO] Recibio PING
+[2024-07-22 17:07:33] [INFO] Envio PONG
+[2024-07-22 17:08:23] [INFO] Recibio PING
+[2024-07-22 17:08:23] [INFO] Envio PONG
+[2024-07-22 17:09:13] [INFO] Recibio PING
+[2024-07-22 17:09:13] [INFO] Envio PONG
+[2024-07-22 17:10:03] [INFO] Recibio PING
+[2024-07-22 17:10:03] [INFO] Envio PONG
+[2024-07-22 17:10:53] [INFO] Recibio PING
+[2024-07-22 17:10:53] [INFO] Envio PONG
+[2024-07-22 17:11:43] [INFO] Recibio PING
+[2024-07-22 17:11:43] [INFO] Envio PONG
+[2024-07-22 17:18:57] [INFO] Recibio +OK
+[2024-07-22 17:18:57] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:18:57] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:18:57] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:18:57] [INFO] Recibio +OK
+[2024-07-22 17:19:00] [INFO] Recibio PING
+[2024-07-22 17:19:00] [INFO] Envio PONG
+[2024-07-22 17:19:19] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 17:19:19] [INFO] Recibio +OK
+[2024-07-22 17:19:46] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 17:19:46] [INFO] Recibio +OK
+[2024-07-22 17:19:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 17:19:47] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 17:19:47] [INFO] Recibio +OK
+[2024-07-22 17:19:50] [INFO] Recibio PING
+[2024-07-22 17:19:50] [INFO] Envio PONG
+[2024-07-22 17:20:40] [INFO] Recibio PING
+[2024-07-22 17:20:40] [INFO] Envio PONG
+[2024-07-22 17:21:30] [INFO] Recibio PING
+[2024-07-22 17:21:30] [INFO] Envio PONG
+[2024-07-22 17:22:20] [INFO] Recibio PING
+[2024-07-22 17:22:20] [INFO] Envio PONG
+[2024-07-22 17:23:10] [INFO] Recibio PING
+[2024-07-22 17:23:10] [INFO] Envio PONG
+[2024-07-22 17:24:00] [INFO] Recibio PING
+[2024-07-22 17:24:00] [INFO] Envio PONG
+[2024-07-22 17:24:50] [INFO] Recibio PING
+[2024-07-22 17:24:50] [INFO] Envio PONG
+[2024-07-22 17:25:40] [INFO] Recibio PING
+[2024-07-22 17:25:40] [INFO] Envio PONG
+[2024-07-22 17:26:30] [INFO] Recibio PING
+[2024-07-22 17:26:30] [INFO] Envio PONG
+[2024-07-22 17:27:20] [INFO] Recibio PING
+[2024-07-22 17:27:20] [INFO] Envio PONG
+[2024-07-22 17:28:10] [INFO] Recibio PING
+[2024-07-22 17:28:10] [INFO] Envio PONG
+[2024-07-22 17:28:48] [INFO] Recibio +OK
+[2024-07-22 17:28:48] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:28:48] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:28:48] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:28:48] [INFO] Recibio +OK
+[2024-07-22 17:28:51] [INFO] Recibio PING
+[2024-07-22 17:28:51] [INFO] Envio PONG
+[2024-07-22 17:29:22] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 17:29:22] [INFO] Recibio +OK
+[2024-07-22 17:29:41] [INFO] Recibio PING
+[2024-07-22 17:29:41] [INFO] Envio PONG
+[2024-07-22 17:29:44] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 17:29:44] [INFO] Recibio +OK
+[2024-07-22 17:29:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 17:29:45] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 17:29:45] [INFO] Recibio +OK
+[2024-07-22 17:30:31] [INFO] Recibio PING
+[2024-07-22 17:30:31] [INFO] Envio PONG
+[2024-07-22 17:31:21] [INFO] Recibio PING
+[2024-07-22 17:31:21] [INFO] Envio PONG
+[2024-07-22 17:45:35] [INFO] Recibio +OK
+[2024-07-22 17:45:35] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:45:35] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:45:35] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:45:35] [INFO] Recibio +OK
+[2024-07-22 17:45:39] [INFO] Recibio PING
+[2024-07-22 17:45:39] [INFO] Envio PONG
+[2024-07-22 17:46:05] [INFO] Enviando: |"PUB Camara 16\r\n34 -58 ahorro 1\r\n"|
+[2024-07-22 17:46:05] [INFO] Recibio +OK
+[2024-07-22 17:46:12] [INFO] Enviando: |"PUB Camara 16\r\n0 0 eliminado 1\r\n"|
+[2024-07-22 17:46:12] [INFO] Recibio +OK
+[2024-07-22 17:46:13] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 2\r\n"|
+[2024-07-22 17:46:13] [INFO] Recibio +OK
+[2024-07-22 17:46:29] [INFO] Recibio PING
+[2024-07-22 17:46:29] [INFO] Envio PONG
+[2024-07-22 17:47:34] [INFO] Recibio +OK
+[2024-07-22 17:47:34] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:47:34] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:47:34] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:47:34] [INFO] Recibio +OK
+[2024-07-22 17:47:37] [INFO] Recibio PING
+[2024-07-22 17:47:37] [INFO] Envio PONG
+[2024-07-22 17:47:51] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 17:47:51] [INFO] Recibio +OK
+[2024-07-22 17:48:07] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 17:48:07] [INFO] Recibio +OK
+[2024-07-22 17:48:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 17:48:08] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 17:48:08] [INFO] Recibio +OK
+[2024-07-22 17:48:27] [INFO] Recibio PING
+[2024-07-22 17:48:27] [INFO] Envio PONG
+[2024-07-22 17:49:17] [INFO] Recibio PING
+[2024-07-22 17:49:17] [INFO] Envio PONG
+[2024-07-22 17:54:36] [INFO] Recibio +OK
+[2024-07-22 17:54:36] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 17:54:36] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 17:54:36] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 17:54:36] [INFO] Recibio +OK
+[2024-07-22 17:54:40] [INFO] Recibio PING
+[2024-07-22 17:54:40] [INFO] Envio PONG
+[2024-07-22 17:55:26] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 17:55:26] [INFO] Recibio +OK
+[2024-07-22 17:55:30] [INFO] Recibio PING
+[2024-07-22 17:55:30] [INFO] Envio PONG
+[2024-07-22 17:55:42] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 17:55:42] [INFO] Recibio +OK
+[2024-07-22 17:55:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 17:55:43] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 17:55:43] [INFO] Recibio +OK
+[2024-07-22 18:06:31] [INFO] Recibio +OK
+[2024-07-22 18:06:31] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 18:06:31] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 18:06:31] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 18:06:31] [INFO] Recibio +OK
+[2024-07-22 18:06:34] [INFO] Recibio PING
+[2024-07-22 18:06:34] [INFO] Envio PONG
+[2024-07-22 18:06:43] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 18:06:43] [INFO] Recibio +OK
+[2024-07-22 18:06:55] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 18:06:55] [INFO] Recibio +OK
+[2024-07-22 18:06:55] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 18:06:56] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 18:06:56] [INFO] Recibio +OK
+[2024-07-22 18:07:24] [INFO] Recibio PING
+[2024-07-22 18:07:24] [INFO] Envio PONG
+[2024-07-22 19:09:49] [INFO] Recibio +OK
+[2024-07-22 19:09:49] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-22 19:09:49] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-22 19:09:49] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-22 19:09:49] [INFO] Recibio +OK
+[2024-07-22 19:09:53] [INFO] Recibio PING
+[2024-07-22 19:09:53] [INFO] Envio PONG
+[2024-07-22 19:10:25] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 19:10:25] [INFO] Recibio +OK
+[2024-07-22 19:10:43] [INFO] Recibio PING
+[2024-07-22 19:10:43] [INFO] Envio PONG
+[2024-07-22 19:10:47] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 19:10:47] [INFO] Recibio +OK
+[2024-07-22 19:10:47] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -33.999 -57.999 pendiente
+[2024-07-22 19:10:48] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 19:10:48] [INFO] Recibio +OK
+[2024-07-22 19:11:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 1.0 -33.999 -57.999 cancelado
+[2024-07-22 19:11:22] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 19:11:22] [INFO] Recibio +OK
+[2024-07-22 19:11:33] [INFO] Recibio PING
+[2024-07-22 19:11:33] [INFO] Envio PONG
+[2024-07-22 19:11:56] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-33.999 -57.999\r\n"|
+[2024-07-22 19:11:56] [INFO] Recibio +OK
+[2024-07-22 19:11:56] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 2.1 -33.999 -57.999 pendiente
+[2024-07-22 19:11:57] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 grabando 1\r\n"|
+[2024-07-22 19:11:57] [INFO] Recibio +OK
+[2024-07-22 19:12:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 3.1 -33.999 -57.999 cancelado
+[2024-07-22 19:12:09] [INFO] Enviando: |"PUB Camara 32\r\n-34 -58 ahorro 1\r\n"|
+[2024-07-22 19:12:09] [INFO] Recibio +OK
+[2024-07-22 19:12:23] [INFO] Recibio PING
+[2024-07-22 19:12:23] [INFO] Envio PONG
+[2024-07-22 19:13:13] [INFO] Recibio PING
+[2024-07-22 19:13:13] [INFO] Envio PONG
+[2024-07-22 19:14:03] [INFO] Recibio PING
+[2024-07-22 19:14:03] [INFO] Envio PONG
+[2024-07-24 20:32:14] [INFO] Recibio +OK
+[2024-07-24 20:32:14] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-24 20:32:14] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-24 20:32:14] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-24 20:32:14] [INFO] Recibio +OK
+[2024-07-24 20:32:17] [INFO] Recibio PING
+[2024-07-24 20:32:17] [INFO] Envio PONG
+[2024-07-24 20:32:53] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:32:53] [INFO] Recibio +OK
+[2024-07-24 20:33:07] [INFO] Recibio PING
+[2024-07-24 20:33:07] [INFO] Envio PONG
+[2024-07-24 20:33:57] [INFO] Recibio PING
+[2024-07-24 20:33:57] [INFO] Envio PONG
+[2024-07-24 20:34:38] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-24 20:34:38] [INFO] Recibio +OK
+[2024-07-24 20:34:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -34.609 -58.369 pendiente
+[2024-07-24 20:34:39] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-24 20:34:39] [INFO] Recibio +OK
+[2024-07-24 20:34:47] [INFO] Recibio PING
+[2024-07-24 20:34:47] [INFO] Envio PONG
+[2024-07-24 20:35:37] [INFO] Recibio PING
+[2024-07-24 20:35:37] [INFO] Envio PONG
+[2024-07-24 20:35:41] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 1.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:41] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 2.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 3.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 4.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 5.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 6.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 7.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 8.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:45] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 9.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:45] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 10.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 11.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 12.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:47] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 13.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:47] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 14.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 15.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 16.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:49] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 17.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:49] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 18.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:50] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 19.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:50] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 20.0 -34.609 -58.369 activo 2 1
+[2024-07-24 20:35:51] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:35:51] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 21.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:51] [INFO] Recibio +OK
+[2024-07-24 20:35:51] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 22.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:52] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 23.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:52] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 24.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:53] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 25.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:53] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 26.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:54] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 27.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:54] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 28.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:55] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 29.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:55] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 30.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:56] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 31.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:56] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 32.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 33.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 34.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 35.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 36.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:59] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 37.0 -34.609 -58.369 cancelado
+[2024-07-24 20:35:59] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 38.0 -34.609 -58.369 cancelado
+[2024-07-24 20:36:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 39.0 -34.609 -58.369 cancelado
+[2024-07-24 20:36:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 40.0 -34.609 -58.369 cancelado
+[2024-07-24 20:36:27] [INFO] Recibio PING
+[2024-07-24 20:36:27] [INFO] Envio PONG
+[2024-07-24 20:40:08] [INFO] Recibio +OK
+[2024-07-24 20:40:08] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-24 20:40:08] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-24 20:40:08] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-24 20:40:08] [INFO] Recibio +OK
+[2024-07-24 20:40:11] [INFO] Recibio PING
+[2024-07-24 20:40:11] [INFO] Envio PONG
+[2024-07-24 20:40:17] [INFO] Enviando: |"PUB Camara 32\r\n34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:40:17] [INFO] Recibio +OK
+[2024-07-24 20:41:02] [INFO] Recibio PING
+[2024-07-24 20:41:02] [INFO] Envio PONG
+[2024-07-24 20:41:52] [INFO] Recibio PING
+[2024-07-24 20:41:52] [INFO] Envio PONG
+[2024-07-24 20:42:13] [INFO] Enviando: |"PUB Camara 16\r\n0 0 eliminado 1\r\n"|
+[2024-07-24 20:42:13] [INFO] Recibio +OK
+[2024-07-24 20:42:32] [INFO] Recibio +OK
+[2024-07-24 20:42:32] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.34 ahorro 2\r\n"|
+[2024-07-24 20:42:42] [INFO] Recibio PING
+[2024-07-24 20:42:42] [INFO] Envio PONG
+[2024-07-24 20:43:32] [INFO] Recibio PING
+[2024-07-24 20:43:32] [INFO] Envio PONG
+[2024-07-24 20:44:49] [INFO] Recibio +OK
+[2024-07-24 20:44:49] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-24 20:44:49] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-24 20:44:49] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-24 20:44:49] [INFO] Recibio +OK
+[2024-07-24 20:44:53] [INFO] Recibio PING
+[2024-07-24 20:44:53] [INFO] Envio PONG
+[2024-07-24 20:45:08] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:45:08] [INFO] Recibio +OK
+[2024-07-24 20:45:44] [INFO] Recibio PING
+[2024-07-24 20:45:44] [INFO] Envio PONG
+[2024-07-24 20:46:34] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-24 20:46:34] [INFO] Recibio +OK
+[2024-07-24 20:46:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -34.609 -58.369 pendiente
+[2024-07-24 20:46:34] [INFO] Recibio PING
+[2024-07-24 20:46:34] [INFO] Envio PONG
+[2024-07-24 20:46:35] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-24 20:46:35] [INFO] Recibio +OK
+[2024-07-24 20:47:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 1.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 2.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 3.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 4.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 5.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 6.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 7.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 8.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 9.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 10.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 11.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 12.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 13.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 14.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 15.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 16.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 17.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 18.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 19.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 20.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 21.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 22.0 -34.609 -58.369 activo 1 2
+[2024-07-24 20:47:15] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:47:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 23.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:15] [INFO] Recibio +OK
+[2024-07-24 20:47:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 24.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 25.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 26.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 27.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 28.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 29.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 30.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 31.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:19] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 32.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:19] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 33.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:20] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 34.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:20] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 35.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:21] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 36.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:21] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 37.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 38.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 39.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 40.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 41.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:24] [INFO] Recibio PING
+[2024-07-24 20:47:24] [INFO] Envio PONG
+[2024-07-24 20:47:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 42.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 43.0 -34.609 -58.369 cancelado
+[2024-07-24 20:47:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 44.0 -34.609 -58.369 cancelado
+[2024-07-24 20:48:00] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-24 20:48:00] [INFO] Recibio +OK
+[2024-07-24 20:48:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 45.1 -34.609 -58.369 pendiente
+[2024-07-24 20:48:01] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-24 20:48:01] [INFO] Recibio +OK
+[2024-07-24 20:48:14] [INFO] Recibio PING
+[2024-07-24 20:48:14] [INFO] Envio PONG
+[2024-07-24 20:48:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 46.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 47.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 48.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 49.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 50.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 51.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 52.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 53.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 54.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 55.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:29] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 56.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:29] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 57.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:30] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 58.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:30] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 59.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:31] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 60.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:32] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 61.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:32] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 62.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:32] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 63.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 64.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 65.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 66.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 67.1 -34.609 -58.369 activo 2 1
+[2024-07-24 20:48:35] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:48:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 68.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:35] [INFO] Recibio +OK
+[2024-07-24 20:48:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 69.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:36] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 70.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:36] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 71.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:36] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 72.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:37] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 73.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:37] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 74.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 75.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 76.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 77.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:39] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 78.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 79.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 80.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 81.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 82.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 83.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 84.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 85.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 86.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 87.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 88.1 -34.609 -58.369 cancelado
+[2024-07-24 20:48:45] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 89.1 -34.609 -58.369 cancelado
+[2024-07-24 20:49:04] [INFO] Recibio PING
+[2024-07-24 20:49:04] [INFO] Envio PONG
+[2024-07-24 20:49:43] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-24 20:49:43] [INFO] Recibio +OK
+[2024-07-24 20:49:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 90.2 -34.609 -58.369 pendiente
+[2024-07-24 20:49:44] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-24 20:49:44] [INFO] Recibio +OK
+[2024-07-24 20:49:54] [INFO] Recibio PING
+[2024-07-24 20:49:54] [INFO] Envio PONG
+[2024-07-24 20:50:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 91.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 92.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 93.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 94.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 95.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 96.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 97.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 98.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 99.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 100.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 101.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 102.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 103.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 104.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 105.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 106.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 107.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 108.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 109.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 110.2 -34.609 -58.369 activo 3 2
+[2024-07-24 20:50:18] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-24 20:50:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 111.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:18] [INFO] Recibio +OK
+[2024-07-24 20:50:19] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 112.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:20] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 113.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:20] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 114.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:21] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 115.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:21] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 116.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 117.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 118.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 119.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 120.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 121.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 122.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 123.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 124.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 125.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 126.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 127.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 128.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 129.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 130.2 -34.609 -58.369 cancelado
+[2024-07-24 20:50:44] [INFO] Recibio PING
+[2024-07-24 20:50:44] [INFO] Envio PONG
+[2024-07-24 20:51:34] [INFO] Recibio PING
+[2024-07-24 20:51:34] [INFO] Envio PONG
+[2024-07-26 19:23:16] [INFO] Recibio +OK
+[2024-07-26 19:23:16] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-26 19:23:16] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-26 19:23:16] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-26 19:23:16] [INFO] Recibio +OK
+[2024-07-26 19:23:20] [INFO] Recibio PING
+[2024-07-26 19:23:20] [INFO] Envio PONG
+[2024-07-26 19:24:10] [INFO] Recibio PING
+[2024-07-26 19:24:10] [INFO] Envio PONG
+[2024-07-26 19:25:00] [INFO] Recibio PING
+[2024-07-26 19:25:00] [INFO] Envio PONG
+[2024-07-26 19:25:17] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:25:17] [INFO] Recibio +OK
+[2024-07-26 19:25:50] [INFO] Recibio PING
+[2024-07-26 19:25:50] [INFO] Envio PONG
+[2024-07-26 19:26:40] [INFO] Recibio PING
+[2024-07-26 19:26:40] [INFO] Envio PONG
+[2024-07-26 19:27:30] [INFO] Recibio PING
+[2024-07-26 19:27:30] [INFO] Envio PONG
+[2024-07-26 19:28:18] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.32 ahorro 2\r\n"|
+[2024-07-26 19:28:18] [INFO] Recibio +OK
+[2024-07-26 19:28:20] [INFO] Recibio PING
+[2024-07-26 19:28:20] [INFO] Envio PONG
+[2024-07-26 19:29:10] [INFO] Recibio PING
+[2024-07-26 19:29:10] [INFO] Envio PONG
+[2024-07-26 19:29:23] [INFO] Recibio +OK
+[2024-07-26 19:29:23] [INFO] Enviando: |"PUB Camara 16\r\n0 0 eliminado 2\r\n"|
+[2024-07-26 19:30:00] [INFO] Recibio PING
+[2024-07-26 19:30:00] [INFO] Envio PONG
+[2024-07-26 19:30:17] [INFO] Enviando: |"PUB Camara 32\r\n-34.611 -58.37 ahorro 3\r\n"|
+[2024-07-26 19:30:17] [INFO] Recibio +OK
+[2024-07-26 19:30:50] [INFO] Recibio PING
+[2024-07-26 19:30:50] [INFO] Envio PONG
+[2024-07-26 19:31:40] [INFO] Recibio PING
+[2024-07-26 19:31:40] [INFO] Envio PONG
+[2024-07-26 19:32:30] [INFO] Recibio PING
+[2024-07-26 19:32:30] [INFO] Envio PONG
+[2024-07-26 19:32:44] [INFO] Enviando: |"PUB Camara 32\r\n-34.614 -58.37 ahorro 4\r\n"|
+[2024-07-26 19:32:44] [INFO] Recibio +OK
+[2024-07-26 19:33:16] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-26 19:33:16] [INFO] Recibio +OK
+[2024-07-26 19:33:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 0.0 -34.609 -58.369 pendiente
+[2024-07-26 19:33:17] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 19:33:17] [INFO] Recibio +OK
+[2024-07-26 19:33:18] [INFO] Enviando: |"PUB Camara 32\r\n-34.611 -58.37 grabando 3\r\n"|
+[2024-07-26 19:33:18] [INFO] Recibio +OK
+[2024-07-26 19:33:20] [INFO] Recibio PING
+[2024-07-26 19:33:20] [INFO] Envio PONG
+[2024-07-26 19:34:10] [INFO] Recibio PING
+[2024-07-26 19:34:10] [INFO] Envio PONG
+[2024-07-26 19:35:00] [INFO] Recibio PING
+[2024-07-26 19:35:00] [INFO] Envio PONG
+[2024-07-26 19:35:14] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.613 -58.369\r\n"|
+[2024-07-26 19:35:14] [INFO] Recibio +OK
+[2024-07-26 19:35:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 1.1 -34.613 -58.369 pendiente
+[2024-07-26 19:35:15] [INFO] Enviando: |"PUB Camara 32\r\n-34.614 -58.37 grabando 4\r\n"|
+[2024-07-26 19:35:15] [INFO] Recibio +OK
+[2024-07-26 19:35:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 2.0 -34.609 -58.369 cancelado
+[2024-07-26 19:35:34] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:35:34] [INFO] Enviando: |"PUB Camara 32\r\n-34.611 -58.37 ahorro 3\r\n"|
+[2024-07-26 19:35:34] [INFO] Recibio +OK
+[2024-07-26 19:35:34] [INFO] Recibio +OK
+[2024-07-26 19:35:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 3.1 -34.613 -58.369 cancelado
+[2024-07-26 19:35:35] [INFO] Enviando: |"PUB Camara 32\r\n-34.614 -58.37 ahorro 4\r\n"|
+[2024-07-26 19:35:35] [INFO] Recibio +OK
+[2024-07-26 19:35:35] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.61 -58.369\r\n"|
+[2024-07-26 19:35:35] [INFO] Recibio +OK
+[2024-07-26 19:35:35] [INFO] Enviando: |"PUB Incidentes_IA 16\r\n-34.609 -58.369\r\n"|
+[2024-07-26 19:35:35] [INFO] Recibio +OK
+[2024-07-26 19:35:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 4.2 -34.61 -58.369 pendiente
+[2024-07-26 19:35:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 5.3 -34.609 -58.369 pendiente
+[2024-07-26 19:35:36] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 19:35:36] [INFO] Recibio +OK
+[2024-07-26 19:35:37] [INFO] Enviando: |"PUB Camara 32\r\n-34.611 -58.37 grabando 3\r\n"|
+[2024-07-26 19:35:37] [INFO] Recibio +OK
+[2024-07-26 19:35:50] [INFO] Recibio PING
+[2024-07-26 19:35:50] [INFO] Envio PONG
+[2024-07-26 19:36:40] [INFO] Recibio PING
+[2024-07-26 19:36:40] [INFO] Envio PONG
+[2024-07-26 19:37:30] [INFO] Recibio PING
+[2024-07-26 19:37:30] [INFO] Envio PONG
+[2024-07-26 19:37:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 6.2 -34.61 -58.369 cancelado
+[2024-07-26 19:38:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 7.3 -34.609 -58.369 cancelado
+[2024-07-26 19:38:06] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:38:06] [INFO] Enviando: |"PUB Camara 32\r\n-34.611 -58.37 ahorro 3\r\n"|
+[2024-07-26 19:38:06] [INFO] Recibio +OK
+[2024-07-26 19:38:06] [INFO] Recibio +OK
+[2024-07-26 19:38:20] [INFO] Recibio PING
+[2024-07-26 19:38:20] [INFO] Envio PONG
+[2024-07-26 19:39:10] [INFO] Recibio PING
+[2024-07-26 19:39:10] [INFO] Envio PONG
+[2024-07-26 19:40:00] [INFO] Recibio PING
+[2024-07-26 19:40:00] [INFO] Envio PONG
+[2024-07-26 19:40:50] [INFO] Recibio PING
+[2024-07-26 19:40:50] [INFO] Envio PONG
+[2024-07-26 19:42:23] [INFO] Recibio +OK
+[2024-07-26 19:42:23] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-26 19:42:23] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-26 19:42:23] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-26 19:42:23] [INFO] Recibio +OK
+[2024-07-26 19:42:27] [INFO] Recibio PING
+[2024-07-26 19:42:27] [INFO] Envio PONG
+[2024-07-26 19:42:53] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:42:53] [INFO] Recibio +OK
+[2024-07-26 19:43:17] [INFO] Recibio PING
+[2024-07-26 19:43:17] [INFO] Envio PONG
+[2024-07-26 19:43:47] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3701 ahorro 2\r\n"|
+[2024-07-26 19:43:47] [INFO] Recibio +OK
+[2024-07-26 19:44:07] [INFO] Recibio PING
+[2024-07-26 19:44:07] [INFO] Envio PONG
+[2024-07-26 19:44:21] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3702 ahorro 3\r\n"|
+[2024-07-26 19:44:21] [INFO] Recibio +OK
+[2024-07-26 19:44:57] [INFO] Recibio PING
+[2024-07-26 19:44:57] [INFO] Envio PONG
+[2024-07-26 19:45:45] [INFO] Recibio +OK
+[2024-07-26 19:45:45] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3703 ahorro 4\r\n"|
+[2024-07-26 19:45:47] [INFO] Recibio PING
+[2024-07-26 19:45:47] [INFO] Envio PONG
+[2024-07-26 19:45:53] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3704 ahorro 5\r\n"|
+[2024-07-26 19:45:53] [INFO] Recibio +OK
+[2024-07-26 19:46:08] [INFO] Enviando: |"PUB Camara 32\r\n-34.6101 -58.37 ahorro 6\r\n"|
+[2024-07-26 19:46:08] [INFO] Recibio +OK
+[2024-07-26 19:46:17] [INFO] Recibio +OK
+[2024-07-26 19:46:17] [INFO] Enviando: |"PUB Camara 32\r\n-34.6102 -58.37 ahorro 7\r\n"|
+[2024-07-26 19:46:26] [INFO] Enviando: |"PUB Camara 32\r\n-34.6103 -58.37 ahorro 8\r\n"|
+[2024-07-26 19:46:26] [INFO] Recibio +OK
+[2024-07-26 19:46:33] [INFO] Enviando: |"PUB Camara 32\r\n-34.6104 -58.37 ahorro 9\r\n"|
+[2024-07-26 19:46:33] [INFO] Recibio +OK
+[2024-07-26 19:46:37] [INFO] Recibio PING
+[2024-07-26 19:46:37] [INFO] Envio PONG
+[2024-07-26 19:46:48] [INFO] Enviando: |"PUB Camara 32\r\n-34.6105 -58.37 ahorro 10\r\n"|
+[2024-07-26 19:46:48] [INFO] Recibio +OK
+[2024-07-26 19:47:27] [INFO] Recibio PING
+[2024-07-26 19:47:27] [INFO] Envio PONG
+[2024-07-26 19:47:48] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369499999999995\r\n"|
+[2024-07-26 19:47:48] [INFO] Recibio +OK
+[2024-07-26 19:47:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 0.0 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 19:47:49] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3701 grabando 2\r\n"|
+[2024-07-26 19:47:49] [INFO] Recibio +OK
+[2024-07-26 19:47:49] [INFO] Enviando: |"PUB Camara 32\r\n-34.6103 -58.37 grabando 8\r\n"|
+[2024-07-26 19:47:49] [INFO] Recibio +OK
+[2024-07-26 19:47:49] [INFO] Enviando: |"PUB Camara 32\r\n-34.6102 -58.37 grabando 7\r\n"|
+[2024-07-26 19:47:49] [INFO] Recibio +OK
+[2024-07-26 19:47:50] [INFO] Enviando: |"PUB Camara 32\r\n-34.6104 -58.37 grabando 9\r\n"|
+[2024-07-26 19:47:50] [INFO] Recibio +OK
+[2024-07-26 19:47:51] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3704 grabando 5\r\n"|
+[2024-07-26 19:47:51] [INFO] Recibio +OK
+[2024-07-26 19:47:51] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3702 grabando 3\r\n"|
+[2024-07-26 19:47:51] [INFO] Recibio +OK
+[2024-07-26 19:47:52] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 19:47:52] [INFO] Recibio +OK
+[2024-07-26 19:47:53] [INFO] Enviando: |"PUB Camara 32\r\n-34.6101 -58.37 grabando 6\r\n"|
+[2024-07-26 19:47:53] [INFO] Recibio +OK
+[2024-07-26 19:47:53] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3703 grabando 4\r\n"|
+[2024-07-26 19:47:53] [INFO] Recibio +OK
+[2024-07-26 19:47:54] [INFO] Enviando: |"PUB Camara 32\r\n-34.6105 -58.37 grabando 10\r\n"|
+[2024-07-26 19:47:54] [INFO] Recibio +OK
+[2024-07-26 19:48:17] [INFO] Recibio PING
+[2024-07-26 19:48:17] [INFO] Envio PONG
+[2024-07-26 19:49:07] [INFO] Recibio PING
+[2024-07-26 19:49:07] [INFO] Envio PONG
+[2024-07-26 19:49:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 1.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3701 ahorro 2\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.6103 -58.37 ahorro 8\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.6102 -58.37 ahorro 7\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.6104 -58.37 ahorro 9\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3704 ahorro 5\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3702 ahorro 3\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.6105 -58.37 ahorro 10\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.6101 -58.37 ahorro 6\r\n"|
+[2024-07-26 19:49:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3703 ahorro 4\r\n"|
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:22] [INFO] Recibio +OK
+[2024-07-26 19:49:23] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6098 -58.369499999999995\r\n"|
+[2024-07-26 19:49:23] [INFO] Recibio +OK
+[2024-07-26 19:49:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 2.1 -34.6098 -58.369499999999995 pendiente
+[2024-07-26 19:49:24] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3701 grabando 2\r\n"|
+[2024-07-26 19:49:24] [INFO] Recibio +OK
+[2024-07-26 19:49:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6103 -58.37 grabando 8\r\n"|
+[2024-07-26 19:49:25] [INFO] Recibio +OK
+[2024-07-26 19:49:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6102 -58.37 grabando 7\r\n"|
+[2024-07-26 19:49:25] [INFO] Recibio +OK
+[2024-07-26 19:49:26] [INFO] Enviando: |"PUB Camara 32\r\n-34.6104 -58.37 grabando 9\r\n"|
+[2024-07-26 19:49:26] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3704 grabando 5\r\n"|
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3702 grabando 3\r\n"|
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Camara 32\r\n-34.6105 -58.37 grabando 10\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369899999999994\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.3696\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 48\r\n-34.609899999999996 -58.369499999999995\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.3698\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6096 -58.369499999999995\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369499999999995\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369699999999995\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.61 -58.369499999999995\r\n"|
+[2024-07-26 19:49:27] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6097 -58.369499999999995\r\n"|
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio +OK
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 3.2 -34.6095 -58.369899999999994 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 4.3 -34.6095 -58.3696 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 64 payload: 5.4 -34.609899999999996 -58.369499999999995 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 32 payload: 6.5 -34.6095 -58.3698 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 7.6 -34.6096 -58.369499999999995 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 8.7 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 9.8 -34.6095 -58.369699999999995 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 10.9 -34.61 -58.369499999999995 pendiente
+[2024-07-26 19:49:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 11.10 -34.6097 -58.369499999999995 pendiente
+[2024-07-26 19:49:28] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 19:49:28] [INFO] Recibio +OK
+[2024-07-26 19:49:29] [INFO] Enviando: |"PUB Camara 32\r\n-34.6101 -58.37 grabando 6\r\n"|
+[2024-07-26 19:49:29] [INFO] Recibio +OK
+[2024-07-26 19:49:30] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3703 grabando 4\r\n"|
+[2024-07-26 19:49:30] [INFO] Recibio +OK
+[2024-07-26 19:49:57] [INFO] Recibio PING
+[2024-07-26 19:49:57] [INFO] Envio PONG
+[2024-07-26 19:50:47] [INFO] Recibio PING
+[2024-07-26 19:50:47] [INFO] Envio PONG
+[2024-07-26 19:51:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 12.10 -34.6097 -58.369499999999995 cancelado
+[2024-07-26 19:51:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 13.9 -34.61 -58.369499999999995 cancelado
+[2024-07-26 19:51:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 14.7 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 19:51:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 15.5 -34.6095 -58.3698 cancelado
+[2024-07-26 19:51:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 64 payload: 16.4 -34.609899999999996 -58.369499999999995 cancelado
+[2024-07-26 19:51:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 17.6 -34.6096 -58.369499999999995 cancelado
+[2024-07-26 19:51:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 18.8 -34.6095 -58.369699999999995 cancelado
+[2024-07-26 19:51:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 19.3 -34.6095 -58.3696 cancelado
+[2024-07-26 19:51:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 20.2 -34.6095 -58.369899999999994 cancelado
+[2024-07-26 19:51:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 21.1 -34.6098 -58.369499999999995 cancelado
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3701 ahorro 2\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6103 -58.37 ahorro 8\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6102 -58.37 ahorro 7\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6104 -58.37 ahorro 9\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3704 ahorro 5\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3702 ahorro 3\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6105 -58.37 ahorro 10\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.6101 -58.37 ahorro 6\r\n"|
+[2024-07-26 19:51:25] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.3703 ahorro 4\r\n"|
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:25] [INFO] Recibio +OK
+[2024-07-26 19:51:37] [INFO] Recibio PING
+[2024-07-26 19:51:37] [INFO] Envio PONG
+[2024-07-26 19:54:45] [INFO] Recibio +OK
+[2024-07-26 19:54:45] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-26 19:54:45] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-26 19:54:45] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-26 19:54:45] [INFO] Recibio +OK
+[2024-07-26 19:54:48] [INFO] Recibio PING
+[2024-07-26 19:54:48] [INFO] Envio PONG
+[2024-07-26 19:55:08] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 19:55:08] [INFO] Recibio +OK
+[2024-07-26 19:55:38] [INFO] Recibio PING
+[2024-07-26 19:55:38] [INFO] Envio PONG
+[2024-07-26 19:56:28] [INFO] Recibio PING
+[2024-07-26 19:56:28] [INFO] Envio PONG
+[2024-07-26 19:57:18] [INFO] Recibio PING
+[2024-07-26 19:57:18] [INFO] Envio PONG
+[2024-07-26 19:58:08] [INFO] Recibio PING
+[2024-07-26 19:58:08] [INFO] Envio PONG
+[2024-07-26 19:58:58] [INFO] Recibio PING
+[2024-07-26 19:58:58] [INFO] Envio PONG
+[2024-07-26 19:59:48] [INFO] Recibio PING
+[2024-07-26 19:59:48] [INFO] Envio PONG
+[2024-07-26 20:00:04] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369499999999995\r\n"|
+[2024-07-26 20:00:04] [INFO] Recibio +OK
+[2024-07-26 20:00:04] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 0.0 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 20:00:05] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 20:00:05] [INFO] Recibio +OK
+[2024-07-26 20:00:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 1.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 2.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:34] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 3.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 4.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 5.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:35] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 6.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:36] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 7.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:36] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 8.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:37] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 9.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:37] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 10.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:37] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 11.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:37] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 12.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 13.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 14.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:38] [INFO] Recibio PING
+[2024-07-26 20:00:38] [INFO] Envio PONG
+[2024-07-26 20:00:38] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 15.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:39] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 16.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:39] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 17.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 18.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 19.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 20.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:40] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 21.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:41] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 22.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:41] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 23.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:41] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 24.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 25.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 26.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:42] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 27.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 28.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 29.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:43] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 30.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 31.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 32.0 -34.6095 -58.369499999999995 activo 1 3
+[2024-07-26 20:00:44] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 20:00:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 33.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:44] [INFO] Recibio +OK
+[2024-07-26 20:00:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 34.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:44] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 35.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:45] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 36.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:45] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 37.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:45] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 38.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 39.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 40.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 41.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:47] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 42.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:47] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 43.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 44.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 45.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 46.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:48] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 47.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:49] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 48.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:49] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 49.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:49] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 50.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:50] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 51.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:50] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 52.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:50] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 53.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:51] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 54.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:51] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 55.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:51] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 56.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:52] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 57.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:52] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 58.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:52] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 59.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:53] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 60.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:53] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 61.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:53] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 62.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:54] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 63.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:00:54] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 64.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:01:28] [INFO] Recibio PING
+[2024-07-26 20:01:28] [INFO] Envio PONG
+[2024-07-26 20:01:30] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369499999999995\r\n"|
+[2024-07-26 20:01:30] [INFO] Recibio +OK
+[2024-07-26 20:01:30] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 65.1 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 20:01:31] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 20:01:31] [INFO] Recibio +OK
+[2024-07-26 20:01:55] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 66.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:56] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 67.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:56] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 68.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:56] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 69.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 70.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 71.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 72.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 73.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 74.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:59] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 75.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:01:59] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 76.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 77.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 78.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:01] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 79.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:01] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 80.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:02] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 81.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:02] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 82.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:03] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 83.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:03] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 84.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:04] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 85.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 86.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 87.1 -34.6095 -58.369499999999995 activo 2 3
+[2024-07-26 20:02:05] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 20:02:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 88.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:05] [INFO] Recibio +OK
+[2024-07-26 20:02:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 89.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 90.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 91.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 92.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 93.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 94.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 95.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 96.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 97.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 98.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 99.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 100.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 101.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 102.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 103.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 104.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 105.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 106.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 107.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 108.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 109.1 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:02:19] [INFO] Recibio PING
+[2024-07-26 20:02:19] [INFO] Envio PONG
+[2024-07-26 20:03:09] [INFO] Recibio PING
+[2024-07-26 20:03:09] [INFO] Envio PONG
+[2024-07-26 20:03:59] [INFO] Recibio PING
+[2024-07-26 20:03:59] [INFO] Envio PONG
+[2024-07-26 20:04:28] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369499999999995\r\n"|
+[2024-07-26 20:04:30] [INFO] Recibio +OK
+[2024-07-26 20:04:31] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 110.2 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 20:04:31] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 111.3 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 20:04:31] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 112.4 -34.6095 -58.369499999999995 pendiente
+[2024-07-26 20:04:32] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-26 20:04:32] [INFO] Recibio +OK
+[2024-07-26 20:04:49] [INFO] Recibio PING
+[2024-07-26 20:04:49] [INFO] Envio PONG
+[2024-07-26 20:04:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 113.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:04:57] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 114.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:04:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 115.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:04:58] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 116.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:04:59] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 117.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:04:59] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 118.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 119.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:00] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 120.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:01] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 121.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:01] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 122.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:02] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 123.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:02] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 124.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:03] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 125.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:03] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 126.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:04] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 127.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:04] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 128.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 129.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 130.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 131.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:06] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 132.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 133.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 134.2 -34.6095 -58.369499999999995 activo 4 1
+[2024-07-26 20:05:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 135.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:07] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 136.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 137.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:08] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 138.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 139.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:09] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 140.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 141.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:10] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 142.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 143.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:11] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 144.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 145.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 146.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 147.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 148.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 149.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 150.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 151.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 152.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 153.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 154.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 155.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 156.2 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:05:39] [INFO] Recibio PING
+[2024-07-26 20:05:39] [INFO] Envio PONG
+[2024-07-26 20:06:29] [INFO] Recibio PING
+[2024-07-26 20:06:29] [INFO] Envio PONG
+[2024-07-26 20:07:04] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 157.4 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:07:05] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-26 20:07:05] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 158.3 -34.6095 -58.369499999999995 cancelado
+[2024-07-26 20:07:05] [INFO] Recibio +OK
+[2024-07-26 20:07:19] [INFO] Recibio PING
+[2024-07-26 20:07:19] [INFO] Envio PONG
+[2024-07-29 14:22:32] [INFO] Recibio +OK
+[2024-07-29 14:22:32] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.JetStreamIncidentes { \"subjects\" : [\"Incidentes\"], \"name\": \"JetStreamIncidentes\"}\r\n"|
+[2024-07-29 14:22:32] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.JetStreamIncidentes { \"delivery_subject\": \"Central_Camaras_DeliveryIncidentes\", \"name\": \"Central_Camaras_ConsumerIncidentes\"}\r\n"|
+[2024-07-29 14:22:32] [INFO] Enviando SUB Central_Camaras_DeliveryIncidentes 1
+
+[2024-07-29 14:22:32] [INFO] Recibio +OK
+[2024-07-29 14:22:35] [INFO] Recibio PING
+[2024-07-29 14:22:35] [INFO] Envio PONG
+[2024-07-29 14:22:44] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-29 14:22:44] [INFO] Recibio +OK
+[2024-07-29 14:23:25] [INFO] Recibio PING
+[2024-07-29 14:23:25] [INFO] Envio PONG
+[2024-07-29 14:24:15] [INFO] Recibio PING
+[2024-07-29 14:24:15] [INFO] Envio PONG
+[2024-07-29 14:25:05] [INFO] Recibio PING
+[2024-07-29 14:25:05] [INFO] Envio PONG
+[2024-07-29 14:25:46] [INFO] Enviando: |"PUB Incidentes_IA 32\r\n-34.6095 -58.369499999999995\r\n"|
+[2024-07-29 14:25:46] [INFO] Recibio +OK
+[2024-07-29 14:25:46] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 0.0 -34.6095 -58.369499999999995 pendiente
+[2024-07-29 14:25:47] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 grabando 1\r\n"|
+[2024-07-29 14:25:47] [INFO] Recibio +OK
+[2024-07-29 14:25:55] [INFO] Recibio PING
+[2024-07-29 14:25:55] [INFO] Envio PONG
+[2024-07-29 14:26:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 1.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:12] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 2.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 3.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:13] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 4.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 5.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:14] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 6.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 7.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:15] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 8.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 9.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:16] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 10.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 11.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:17] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 12.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 13.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:18] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 14.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:19] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 15.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:19] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 16.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:20] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 17.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:20] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 18.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:21] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 19.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:21] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 20.0 -34.6095 -58.369499999999995 activo 2 1
+[2024-07-29 14:26:22] [INFO] Enviando: |"PUB Camara 32\r\n-34.61 -58.37 ahorro 1\r\n"|
+[2024-07-29 14:26:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 21.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:22] [INFO] Recibio +OK
+[2024-07-29 14:26:22] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 22.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 23.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:23] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 24.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 25.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:24] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 26.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 27.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:25] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 28.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 29.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:26] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 30.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 31.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:27] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 32.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 33.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:28] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 34.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:29] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 35.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:29] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 36.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:30] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 37.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:30] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 38.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:31] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 39.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:31] [INFO] Recibio mensaje: MSG Central_Camaras_DeliveryIncidentes 1 48 payload: 40.0 -34.6095 -58.369499999999995 cancelado
+[2024-07-29 14:26:45] [INFO] Recibio PING
+[2024-07-29 14:26:45] [INFO] Envio PONG

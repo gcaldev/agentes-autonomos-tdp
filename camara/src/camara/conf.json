@@ -1,0 +1,10 @@
+{
+  "address_client": "127.0.0.1:4242",
+  "pub_camara": "Camara",
+  "sub_incidentes": "Incidentes",
+  "pub_incidentes_ia": "Incidentes_IA",
+  "username": "centralcamaras",
+  "password": "prueba123",
+  "areaincidente": 0.001,
+  "arealindante": 0.003
+}

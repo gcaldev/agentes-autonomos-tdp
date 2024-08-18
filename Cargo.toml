@@ -1,0 +1,21 @@
+
+workspace = { members = ["sistema_monitoreo","camara","logger", "cliente", "ui/sismon", "ui/centralcam", "dron", "ui/dronapp", "azure_vision_client", "icwt_crypto", "detector_incidentes"] }
+[package]
+name = "servidor"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+serde_json = "1.0"
+bcrypt = "0.15"
+
+icwt_crypto = { path = "icwt_crypto" }
+logger = { path = "logger" }
+
+[[bin]]
+name = "0server"
+path = "src/servidor/main.rs"
+

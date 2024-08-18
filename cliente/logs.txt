@@ -1,0 +1,23 @@
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Recibio PING
+[2024-07-29 12:16:50] [INFO] Envio PONG
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Enviando: |"PUB INCIDENTES 16\r\nhola\r\n"|
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Enviando SUB INCIDENTES 1
+
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Enviando SUB INCIDENTES 1
+
+[2024-07-29 12:16:50] [INFO] Enviando UNSUB 1
+
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [ERROR] Invalid subject
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Crear stream enviando: |"$JS.API.STREAM.CREATE.js_incidentes { \"subjects\" : [\"INCIDENTES\"], \"name\": \"js_incidentes\"}\r\n"|
+[2024-07-29 12:16:50] [INFO] Recibio +OK
+[2024-07-29 12:16:50] [INFO] Crear consumidor enviando: |"$JS.API.CONSUMER.CREATE.js_incidentes { \"delivery_subject\": \"incidentes_central_camara\", \"name\": \"central_camara_consumer\"}\r\n"|
+[2024-07-29 12:16:50] [INFO] Enviando SUB incidentes_central_camara 1
+

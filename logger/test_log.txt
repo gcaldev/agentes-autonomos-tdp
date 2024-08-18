@@ -1,0 +1,8 @@
+dummyDate [ERROR] Error message
+dummyDate [WARN] Warning message
+dummyDate [INFO] Info message
+dummyDate [DEBUG] Debug message
+[2024-07-29 12:18:50] [ERROR] Error message
+[2024-07-29 12:18:50] [WARN] Warning message
+[2024-07-29 12:18:50] [INFO] Info message
+[2024-07-29 12:18:50] [DEBUG] Debug message
